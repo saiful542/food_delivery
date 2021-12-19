@@ -1,0 +1,17 @@
+.banner{
+    
+    background-image: url('../../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+@media only screen and (max-width:680px){
+    .banner{
+        
+        background-position: right;
+        background-size: contain;
+        height: 35vh;
+        width:max-content;
+    }
+}
