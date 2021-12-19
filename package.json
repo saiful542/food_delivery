@@ -1,5 +1,6 @@
 {
-  "name": "food-hut",
+  "homepage": "https://saiful542.github.io/food_delivery",
+  "name": "food_delivery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
